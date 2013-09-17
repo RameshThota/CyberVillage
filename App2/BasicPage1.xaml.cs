@@ -48,6 +48,7 @@ namespace App2
            // DefaultViewModel["Employees1"] =conn.Table<SampleItem>().ToListAsync();
            // EmployeesCombo.ItemsSource = DefaultViewModel["Employees1"];
             DefaultViewModel["IsBusy"] = false;
+            //jkajfha
         }
 
         /// <summary>
